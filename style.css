@@ -3,14 +3,11 @@ body{
     display:flex;
 }
 .attribution{
-    margin:120px auto;
+    margin:80px auto;
     background-color: hsl(0, 0%, 100%);
     border-radius:10px;
     width:20em;
-    height:;5em
-    
-    
-    
+    height:480px;
 }
 .qr-code{
     margin:20px 20px;
@@ -24,11 +21,14 @@ body{
     text-align:center ;
 }
 h4{
-    font-family:outfit;
+    font-family:"outfit", sans-serif;
     font-size: 15px;
+    color:hsl(220, 15%, 55%);
     font-weight:700;
 }
 .text p{
+    font-family:"outfit", sans-serif;
+    margin-top:45px;
     font-size:15px;
     font-weight:40 0;
     color:hsl(212, 45%, 89%);
